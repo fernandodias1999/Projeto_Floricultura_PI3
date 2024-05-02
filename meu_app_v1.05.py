@@ -3,7 +3,7 @@
 #  RA: 2102144  Fernando Dias
 #  RA: 2009640  Felipe Sousa Chagas
 #  PJI 310 - Turma 004 Grupo 005
-#  Ultima atualização 01/05/2024 as 21:15 hs
+#  Ultima atualização 29/04/2024 as 19:45 hs
 #  #########################################
 
 import requests
@@ -345,7 +345,7 @@ with (((st.container(border=True, height=1080)))):
 # Rodapé da página com informações importantes - não alterar
 with st.container(border=True, height=200):  # Rodapé da Pagina
     # st.write("Patrocinio [Clique aqui] (https://www.hashtagtreinamentos.com/curso-python)")
-    st.write("Copyright(C) 2024 - Direitos Reservados - Versão 1.06 - 01/05/2024")
+    st.write("Copyright(C) 2024 - Direitos Reservados - Versão 1.05 - 29/04/2024")
     with st.container(border=True, height=100):  # Rodapé da Pagina (2)
         st.write("Desenvolvido pela Turma 004 Grupo 005")
         st.write("Linguagem utilizada Python 3.12.2 + Streamlit + Pandas")
