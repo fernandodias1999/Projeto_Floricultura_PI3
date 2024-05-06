@@ -137,8 +137,8 @@ with st.sidebar:
     )
 
     st.image("flower.png", width=270)  # Imagem da Flor
-    st.button(label="Cotações Moedas", use_container_width=200, type="primary", on_click=pega_cotacoes)
-    st.button(label="Java Script", help="Balloom com Java Script", use_container_width=200, type="secondary")
+    st.button(label="Cotações Moedas", help="Um exemplo de Balloom com Java Script", use_container_width=200, type="primary", on_click=pega_cotacoes)
+    # st.button(label="Java Script", help="Balloom com Java Script", use_container_width=200, type="secondary")
 
 # Fim do SideBar ###########################################################################
 
